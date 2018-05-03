@@ -1,0 +1,20 @@
+{
+    "name": "pkostadinov-2create/Carbon_Video_Wistia",
+    "description": "Extension lib for Wistia videos support with Carbon_Video lib.",
+    "keywords": ["wordpress", "carbon-field", "Carbon_Video", "Carbon_Video_Wistia", "carbon"],
+    "homepage": "https://github.com/pkostadinov-2create/Carbon_Video_Wistia",
+    "type": "library",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Plamen Kostadinov",
+            "email": "pkostadinov.2create@gmail.com"
+        }
+    ],
+    "require": {
+        "htmlburger/carbon-video": "*",
+    },
+    "autoload": {
+        "files": ["Carbon_Video_Wistia.php"]
+    }
+}
