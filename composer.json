@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-        "htmlburger/carbon-video": "*",
+        "htmlburger/carbon-video": "*"
     },
     "autoload": {
         "files": ["Carbon_Video_Wistia.php"]
